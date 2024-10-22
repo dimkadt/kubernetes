@@ -8,6 +8,8 @@ fields:
       - type: list
         name: version
         values:
+          - value: v1.30.5
+            caption: v1.30.5
           - value: v1.29.9
             caption: v1.29.9
           - value: v1.28.0
